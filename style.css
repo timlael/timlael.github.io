@@ -51,6 +51,21 @@ a {
 	/*color: #0000FF;*/
 }
 
+/* Main Level */
+ul{
+  margin-left:10px;
+}
+
+/* Second Level */
+ul ul{
+  margin-left:15px;
+}
+
+/* Third Level */
+ul ul ul{
+  margin-left:20px;
+}
+
 a:hover {
 	text-decoration: underline;
 	color: #FF0000;
